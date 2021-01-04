@@ -18,10 +18,13 @@
 #import the pandas library so you can utilize the functions from the library
 
 # ----------------- SOLUTION GOES HERE --------------------
+import numpy as np
+import pandas as pd
 
 # ---------------------------------------------------------
 
 # ----------------------------------------PROBLEM 1 END ----------------------------------------
+
 
 # ---------------------------------------- PROBLEM 2 START ----------------------------------------
 # #Below is a data set in a list data structure. Convert it into a pandas dataframe and print it out
@@ -40,9 +43,90 @@
 # ----------------------------------------PROBLEM 2 END -------------------------------------------
 
 # ---------------------------------------- PROBLEM 3 START ----------------------------------------
+# Covert the cars.csv file into a dataframe using the read_csv function
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
+
+# Now that you can print out the CSV file, try printing out the countries
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
 
 # ----------------------------------------PROBLEM 3 END -------------------------------------------
 
 # ---------------------------------------- PROBLEM 4 START ----------------------------------------
+# using loc, print out the row labled RU
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+# --------------------------------------- 
+
+# print the number of cars_per_cap in India
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
+
+# print both the country names and the cars per capita in one statement
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
+
 
 # ----------------------------------------PROBLEM 4 END -------------------------------------------
+
+# ---------------------------------------- PROBLEM 5 START ----------------------------------------
+# Create a data structure that contains the made up data about most common car for each country
+# Once you made the new data set, add it as a new column to the existing dataframe
+# Hint: What data structure is useful at holding multiple pieces of information
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
+
+# ----------------------------------------PROBLEM 5 END -------------------------------------------
+
+
+# ---------------------------------------- PROBLEM 6 START ----------------------------------------
+# Try deleting the column "drives_right" from the dataframe
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+# --------------------------------------- 
+
+# ----------------------------------------PROBLEM 6 END -------------------------------------------
+
+# ---------------------------------------- PROBLEM 7 START ----------------------------------------
+# In pandas we can use: mean, median, mode, standard dev and more
+# For this example, try using these tools on the cars dataframe and view the results
+# The syntax for finding standard deviation is a little different: std(axis = 0, skipna = True)
+
+# ---------- SOLUTION GOES HERE ----------
+
+
+
+
+
+
+
+# --------------------------------------- 
+
+
+# ----------------------------------------PROBLEM 7 END -------------------------------------------
