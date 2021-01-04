@@ -15,11 +15,10 @@
 
 
 # ---------------------------------------- PROBLEM 1 START ----------------------------------------
-#import the pandas library so you can utilize the functions from the library
+#import the pandas library and numpy so you can utilize the functions from the libraries
 
 # ----------------- SOLUTION GOES HERE --------------------
-import numpy as np
-import pandas as pd
+
 
 # ---------------------------------------------------------
 
