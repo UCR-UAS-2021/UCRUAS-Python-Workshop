@@ -103,17 +103,17 @@
 # # Hint 2: This will require a lot of conditional statements!
 # # ---------------------------------------- PROBLEM 4 END ----------------------------------------
 
-# ---------------------------------------- PROBLEM 5 START ----------------------------------------
-# Write a function called add_five() that takes a number as an input and returns that number + 5. 
+# # ---------------------------------------- PROBLEM 5 START ----------------------------------------
+# # Write a function called add_five() that takes a number as an input and returns that number + 5. 
 
-x = int(input("Type in a number: "))
+# x = int(input("Type in a number: "))
 
-# ---------- SOLUTION GOES HERE ----------
+# # ---------- SOLUTION GOES HERE ----------
 
-# ----------------------------------------
+# # ----------------------------------------
 
-print(str(x) + " + 5 is " + str(add_five(x)))
-# ---------------------------------------- PROBLEM 5 END ----------------------------------------
+# print(str(x) + " + 5 is " + str(add_five(x)))
+# # ---------------------------------------- PROBLEM 5 END ----------------------------------------
 
 
 
