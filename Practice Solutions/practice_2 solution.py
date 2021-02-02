@@ -19,7 +19,7 @@
 # # Set x to a value such that the output is false
 
 # # ---------- SOLUTION GOES HERE ----------
-# x = 6
+# x = 5
 # # ----------------------------------------
 
 # print(x > 5)
