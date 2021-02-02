@@ -158,7 +158,7 @@ def FibFunc(n):
   else:
     print("Fibonacci sequence upto",n,":")
     while current_term < n:
-      print("Current Term: "+  str(n2) + ": " + str(n1))
+      print("Current Term: "+  str(current_term + 1) + ": " + str(n1))
       temp = n1 + n2
       n1 = n2
       n2 = temp
